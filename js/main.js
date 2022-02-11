@@ -68,4 +68,4 @@ const imgSelectDiv = document.querySelector('.img-container')
    })
  })
 };
- 
+  
