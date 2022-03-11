@@ -171,3 +171,30 @@ console.log(todo)
       ...updatedData,
     };
     console.log(students)
+
+
+    ///////
+    const uk = [
+      {
+        id: 'ee9efd79-92bb-4d9f-a4dc-d340e63739b7',
+        name: 'Md Al-amin',
+        email: 'alamin@gmail.com',
+      },
+      {
+        id: '49350b1b-b450-418f-a840-c7aa53617a7f',
+        name: 'Akib Ahmed',
+        email: 'akib@gmail.com',
+      },
+       {
+        id: '95a59656-e07a-44c8-920c-5c169976b748',
+        name: 'Elias Emon',
+        email: 'elias@gmail.com',
+      },
+    ];
+ const rows=[]
+    for(let i=0 ;i <uk.length; i++ ){
+
+      for(let j=0; j< 5;j++){
+
+      }
+    }
